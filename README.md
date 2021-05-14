@@ -1,8 +1,9 @@
 # Exercises
 
 The file `solutions.py` has empty functions that you need to fill in
-with code for the problems mentioned below. Fill in code for the
-functions below and then run the tests file using
+with code for the problems mentioned below. Remove the `pass`
+statement and fill in code for the functions below and then run the
+tests file using
 
 
 ## Problem 1
